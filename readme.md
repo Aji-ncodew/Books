@@ -1,2 +1,0 @@
-Microservices
-from Day One
